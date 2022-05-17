@@ -134,7 +134,7 @@ At this time, there are no known bugs.
 ## Authors
 Okechukwu Favour | [GitHub](https://github.com/favourpro) | [Twitter](https://twitter.com/favourdev)
 
-YourName here | [GitHub](https://github.com/Your nane here) | [Twitter](https://twitter.com/Your name here)
+Aize Daniel | [GitHub](https://github.com/rakayon) | [Twitter](https://twitter.com/le_naid)
 
 ## License
 simple_shell is open source and therefore free to download and use without permission.
